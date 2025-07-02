@@ -2,9 +2,8 @@
 
 ### 🚀 End-to-End Deployment | Terraform + AKS + Docker + Prometheus + Grafana
 
-This project showcases a **production-grade Cloud DevOps stack** built entirely on **Microsoft Azure**. It demonstrates how to deploy containerized microservices using **AKS**, automate infrastructure with **Terraform**, and implement full observability with **Prometheus and Grafana**.
+This project showcases a **production-grade Cloud DevOps stack** built entirely on **Microsoft Azure**. It demonstrates how to deploy containerized microservices using **AKS**, automate infrastructure with **Terraform** and implement full observability with **Prometheus and Grafana**.
 
-> 🔧 Perfect for DevOps, SRE, Cloud Engineer roles — this project simulates a real-world use case for scalable cloud-native applications.
 
 ---
 
